@@ -7,10 +7,10 @@ import discord
 
 token = 'beep.boop.secret'
 
-prefix = '$'
-owner_id = 69198249432449024
+prefix = 'k!'
+owner_id = 323370130207801344
 
-giveaway_channel = 384121527437885440
+giveaway_channel = 550195444924284939
 giveaway_emoji = 384394753749417996
 
 giveaway_duration = datetime.timedelta(days=1)
